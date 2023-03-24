@@ -1,0 +1,31 @@
+body {
+       
+    color:white;
+    font-size: 1.5vw;
+    font-family: 'Patua One', cursive;
+    background-image: url("Discoverer13.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+
+    margin-left: 3%;
+    -webkit-text-stroke: 0.1vw;
+    -webkit-text-stroke-color: black;
+}
+
+p {
+
+    margin-left: 10%;
+    -webkit-text-stroke: 0.05vw;
+    -webkit-text-stroke-color: black;
+
+}
+
+a {
+
+    color: lightblue;
+
+}
